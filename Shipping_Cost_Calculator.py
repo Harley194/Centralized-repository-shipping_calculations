@@ -1,5 +1,3 @@
-
-# Here is another update by Harley194
  # Here is a new update by Harley194
 # Shipping Cost Calculator
 
